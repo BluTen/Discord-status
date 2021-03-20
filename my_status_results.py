@@ -1,2 +1,2 @@
 def myMood():
-  return "Thanks For coming till here, but i am sad tho"
+  return "Thanks For checking up on me, but i am sad tho"
